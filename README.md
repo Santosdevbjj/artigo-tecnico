@@ -35,6 +35,16 @@ Criar um artigo tecnico de qualidade usando o ChatGPT e Lexic.art
 **— com foco nas bibliotecas que transformaram a linguagem.** Estruture o arquivo em blocos, tendo 5 linhas por bloco.  Cite exemplos práticos de código e aplicações. Faça também um call to action para as redes sociais. Coloque 4 hashtags que façam sentido.
 
 
+---
+
+**Contato:**
+
+[![Portfólio Sérgio Santos](https://img.shields.io/badge/Portfólio-Sérgio_Santos-111827?style=for-the-badge&logo=githubpages&logoColor=00eaff)](https://santosdevbjj.github.io/portfolio/)
+[![LinkedIn Sérgio Santos](https://img.shields.io/badge/LinkedIn-Sérgio_Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santossergioluiz)
+
+
+
+---
 
 
 
