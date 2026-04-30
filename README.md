@@ -140,7 +140,7 @@ O artigo aborda a evolução do ecossistema Python, cobrindo:
 
 ---
 
-## 🧠 Aprendizados
+##  Aprendizados
 
 - Escrever bem é uma habilidade técnica
 - IA amplifica produtividade, não substitui raciocínio
